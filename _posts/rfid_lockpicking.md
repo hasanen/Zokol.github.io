@@ -23,7 +23,9 @@ Rfid Metal Access Control Keypad With Waterproof Cover Contactless Door Controll
 * Keypad / lock
 * Relay / latch / bolt
 
-*Insert picture of PSU+keypad+lock circuit*
+![logo]
+
+[logo]: https://github.com/Zokol/Zokol.github.io/blob/master/_posts/RFID_lock_psu.jpg "PSU+keypad+lock circuit"
 
 
 ## System operation
