@@ -51,23 +51,23 @@ Rfid Metal Access Control Keypad With Waterproof Cover Contactless Door Controll
 
 0. Set configuration pin: [0] + [new 6 digit code] + [repeat new 6 digit code] + [#]
 1. Set access mode:
-	a. [1] + [0]: Access requires card OR pin
-	b. [1] + [1]: Access requires card AND pin
-	c. [1] + [2]: Disable private pins
-	d. [1] + [3]: Enable private pins
+   * [1] + [0]: Access requires card OR pin
+   * [1] + [1]: Access requires card AND pin
+   * [1] + [2]: Disable private pins
+   * [1] + [3]: Enable private pins
 2. Set door open delay: [2] + [time in two digits (seconds)] + [#]
 3. Set public pin (If public pin is set to 0000 and access-mode is card OR pin, public pin is disabled): [3] + [new 4 digit code] + [#]
 4. Set tamper detection: 
-	a. [4] + [0]: Disable tamper detection (default)
-	b. [4] + [1]: Enable tamper detection
+   * [4] + [0]: Disable tamper detection (default)
+   * [4] + [1]: Enable tamper detection
 5. Enroll new card: [5] + [3 digit memory ID (001-999)], present cards to reader and finally press [#]
 6. Set door contact sensor: 
-	a. [6] + [0]: Disable door sensor (default)
-	b. [6] + [1]: Enable door sensor
+   * [6] + [0]: Disable door sensor (default)
+   * [6] + [1]: Enable door sensor
 7. Delete card: [7] + [3 digit memory ID (001-999)] OR [7] + present card to reader and finally press [#]
 8. Set door alarm (gives out alarm if door sensor opens without keypad granting access): 
-	a. [8] + [0]: Disable door alarm (default)
-	b. [8] + [1]: Enable door alarm
+   * [8] + [0]: Disable door alarm (default)
+   * [8] + [1]: Enable door alarm
 9. UNUSED
 
 
