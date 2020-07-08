@@ -1,3 +1,9 @@
+---
+layout: default
+title:  "RFID lockpicking"
+date:   2020-07-07 15:51:45 -0500
+categories: lock picking
+---
 # RFID lock by OBO HANDS
 
 ## Target
@@ -23,9 +29,7 @@ Rfid Metal Access Control Keypad With Waterproof Cover Contactless Door Controll
 * Keypad / lock
 * Relay / latch / bolt
 
-![logo]
-
-[logo]: https://github.com/Zokol/Zokol.github.io/blob/master/_posts/RFID_lock_psu.jpg "PSU+keypad+lock circuit"
+![PSU+keypad+lock circuit](/assets/images/posts/rfid_lockpicking/RFID_lock_psu.jpg)
 
 
 ## System operation
